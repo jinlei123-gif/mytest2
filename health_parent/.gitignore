@@ -1,0 +1,52 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+.idea/
+health_common/health_common.iml
+health_common/target/
+health_dao/health_dao.iml
+health_dao/target/
+health_interface/health_interface.iml
+health_interface/target/
+health_job/health_job.iml
+health_job/target/
+health_mobile/health_mobile.iml
+health_mobile/target/
+health_parent.iml
+health_pojo/health_pojo.iml
+health_pojo/target/
+health_service/health_service.iml
+health_service/target/
+health_web/health_web.iml
+health_web/src/main/webapp/pages/checkgroup2.html
+health_web/src/main/webapp/pages/report_member.html
+health_web/target/
+springsecurity_demo/springsecurity_demo.iml
+springsecurity_demo/target/
+
+*.iml
+target
