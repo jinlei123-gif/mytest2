@@ -15,6 +15,8 @@ public class JedisUtils {
     public static Jedis getConn() {
         Jedis jedis = pool.getResource();
         return jedis;
+   
+
 
     }
 
